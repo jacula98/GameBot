@@ -7,6 +7,8 @@ To use this bot u need:
 
 3.Open GameBot
 
-4.Configure bot in settings, save
+4.Configure bot in settings(remember to choose OBS window in settings
 
-5.Use Gamebot and have fun :)
+5.Save
+
+6.Use Gamebot and have fun :)
